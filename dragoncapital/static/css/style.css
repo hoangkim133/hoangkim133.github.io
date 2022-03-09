@@ -1,0 +1,196 @@
+.display-hoang {
+    display: none;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+    z-index: 1000000000;
+}
+
+.display-style1-hoang {
+    display: none;
+}
+
+.brand-hoang {
+    padding-left: 7rem;
+}
+
+.img-navbar-hoang {
+    max-height: none !important;
+    height: auto;
+    width: 250px;
+}
+
+.button-hoang {
+    border-style: none;
+    background-color: transparent;
+}
+
+.p-hoang {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+}
+
+.but-hoang {
+    background-color: transparent;
+    border-radius: 0px;
+    border-width: 3px;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+}
+
+.box-hoang {
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.dot {
+    border-width: 10px;
+    border: 4px solid rgb(255, 255, 255);
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background: rgb(49, 114, 139);
+    position: relative;
+}
+
+.dot:hover {
+    border-width: 10px;
+    border: 4px solid rgb(255, 255, 255);
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background: rgb(202, 110, 25);
+    position: relative;
+}
+
+.dot2 {
+    border-width: 10px;
+    border: 4px double rgb(255, 255, 255);
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgb(49, 114, 139);
+    position: relative;
+}
+
+.dot2:hover {
+    animation-name: heartBeat;
+    background: rgb(206, 122, 43);
+}
+
+.col-hoang {
+    margin-top: -4rem;
+}
+
+.icon-hoang {
+    height: 55px;
+}
+
+.icon-hoang2 {
+    height: 85px;
+}
+
+.icon-i-hoang {
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.icon-i-hoang2 {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.p-i-hoang {
+    color: rgb(49, 114, 139);
+}
+
+.p-i-hoang:hover {
+    color: rgb(202, 110, 25);
+}
+
+.half-col-hoang {
+    border: 0.5px solid rgb(255, 255, 255);
+    background-color: #f1f1f1;
+}
+
+.half-col-hoang:hover {
+    border: 0.5px solid rgb(255, 255, 255);
+    background-color: #3229b4;
+    color: white;
+}
+
+.p-b-hoang {
+    font-size: 24px;
+    color: #30b830;
+}
+
+.block-15-hoang {
+    margin-top: -6rem
+}
+
+.block-16-hoang {
+    margin-top: -10rem
+}
+
+.block-17-hoang {
+    width: 50%;
+    margin: auto;
+}
+
+.con-hoang {
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: -15rem;
+}
+
+.block-18-hoang {
+    margin-top: -10rem
+}
+
+.con-19-hoang {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.block-20-hoang {
+    margin-top: -10rem
+}
+
+.block-21-hoang {
+    width: 50%;
+    margin: auto;
+}
+
+.con-22-hoang {
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: -12rem;
+}
+
+.col-15-hoang {
+    text-align: center;
+    color: rgb(54, 87, 177);
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.hero-hoang {
+    margin-top: 10rem;
+}
+
+.span-hoang {
+    padding: 1rem;
+    display: inline-block;
+}
+
+.span-hoang2 {
+    padding: 1rem;
+    display: inline-block;
+}
