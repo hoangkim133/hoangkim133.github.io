@@ -1,0 +1,345 @@
+.display-hoang {
+    display: none;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+    z-index: 1000000000;
+}
+
+.display-style1-hoang {
+    display: none;
+}
+
+
+/* .brand-hoang {
+    padding-left: 7rem;
+} */
+
+.img-navbar-hoang {
+    max-height: none !important;
+    height: auto;
+    width: 250px;
+}
+
+.button-hoang {
+    border-style: none;
+    background-color: transparent;
+}
+
+.p-hoang {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+    font-weight: 700;
+    margin-bottom: 30px;
+    font-size: 32px;
+    text-transform: uppercase;
+    line-height: 150%;
+}
+
+.p-hoang2 {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.but-hoang {
+    background-color: transparent;
+    border-radius: 0px;
+    border-width: 3px;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+}
+
+.but-hoang:hover {
+    transition: 600ms;
+    background-color: #005a84;
+    border-radius: 0px;
+    border-width: 0px;
+    color: white;
+    text-shadow: 1px 1px 3px #000000;
+}
+
+.box-hoang {
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.dot {
+    border-width: 10px;
+    border: 4px solid rgb(255, 255, 255);
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background: rgb(49, 114, 139);
+    position: relative;
+}
+
+
+/* .dot:hover {
+    border-width: 10px;
+    border: 4px solid rgb(255, 255, 255);
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    position: relative;
+} */
+
+.hr-hoang {
+    background-color: rgb(49, 114, 139);
+    width: 40%;
+    margin: auto;
+    border-width: 1px;
+    margin-top: 1rem;
+}
+
+.test:hover .set-bg {
+    background: rgb(202, 110, 25);
+}
+
+.test:hover .set-text {
+    color: rgb(202, 110, 25);
+}
+
+.dot2 {
+    border-width: 10px;
+    border: 4px double rgb(255, 255, 255);
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgb(49, 114, 139);
+    position: relative;
+}
+
+
+/* .dot2:hover {
+    animation-name: heartBeat;
+    background: rgb(206, 122, 43);
+} */
+
+.test2:hover .set-dot {
+    animation-name: heartBeat;
+    background: rgb(206, 122, 43);
+}
+
+.test2:hover .hr-hoang {
+    background: rgb(206, 122, 43);
+}
+
+.test2:hover .set-text {
+    color: rgb(206, 122, 43);
+}
+
+.col-hoang {
+    margin-top: -4rem;
+}
+
+.icon-hoang {
+    height: 55px;
+}
+
+.icon-hoang2 {
+    height: 85px;
+}
+
+.icon-i-hoang {
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.icon-i-hoang2 {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.p-i-hoang {
+    color: rgb(49, 114, 139);
+}
+
+.p-i-hoang:hover {
+    color: rgb(202, 110, 25);
+}
+
+.half-col-hoang {
+    border: 0.5px solid rgb(255, 255, 255);
+    background-color: #f1f1f1;
+}
+
+.bl-hoang {
+    padding-top: 8px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    height: 120px;
+}
+
+.half-col-hoang:hover {
+    border: 0.5px solid rgb(255, 255, 255);
+    background-color: #3229b4;
+    color: white;
+}
+
+.p-b-hoang {
+    font-size: 24px;
+    color: #30b830;
+}
+
+.block-15-hoang {
+    margin-top: -6rem
+}
+
+.block-16-hoang {
+    margin-top: -6rem
+}
+
+.block-17-hoang {
+    width: 50%;
+    margin: auto;
+}
+
+.con-hoang {
+    /* margin-left: 10rem;
+    margin-right: 10rem; */
+    margin-top: -15rem;
+}
+
+.block-18-hoang {
+    margin-top: -6rem
+}
+
+
+/* .con-19-hoang {
+    /* margin-left: 10rem;
+    margin-right: 10rem; */
+
+
+/* } */
+
+.block-20-hoang {
+    margin-top: -6rem
+}
+
+.block-21-hoang {
+    width: 50%;
+    margin: auto;
+}
+
+.con-22-hoang {
+    /* margin-left: 10rem;
+    margin-right: 10rem; */
+    margin-top: -12rem;
+}
+
+.col-15-hoang {
+    text-align: center;
+    color: rgb(54, 87, 177);
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.hero-hoang {
+    margin-top: 10rem;
+}
+
+.span-hoang {
+    padding: 1rem;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(77, 83, 83) !important;
+}
+
+.span-hoang2 {
+    display: inline-block;
+    font-size: 15px;
+}
+
+.a-hoang {
+    color: rgb(77, 83, 83) !important;
+}
+
+.hide {
+    display: none;
+}
+
+.hide2 {
+    display: none;
+}
+
+.dot:hover+.hide {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle !important;
+    color: #005a84;
+    position: absolute;
+    /* white-space: nowrap; */
+    transform: translateY(90%);
+}
+
+.dot:hover+.hide2 {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle !important;
+    color: #005a84;
+    position: absolute;
+    /* white-space: nowrap; */
+    transform: translateY(20%);
+}
+
+.con-main-hoang {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.size-icon-hoang {
+    font-size: 28px;
+    margin-right: 2.5rem;
+}
+
+.icon2-hoang {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2.5rem;
+}
+
+.side-hoang {
+    position: absolute;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #cacaca;
+    float: right;
+    right: 0;
+    /* height: 10rem; */
+    width: 4rem;
+    margin-top: 15rem;
+    padding: 0;
+}
+
+.sticky2 {
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+    z-index: 1000000000;
+}
+
+.sty-col-hoang {
+    background-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-color: #cacaca;
+}
+
+.sty-col-hoang:hover .icon {
+    animation-name: wobble;
+}
+
+.sty-col-hoang:hover {
+    background-color: #8799c0;
+}
